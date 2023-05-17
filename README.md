@@ -1,4 +1,4 @@
-# GameDevelopment-2D
+# GameDevelopment-3D
 
 https://github.com/AliceHincu/GameDevelopment-2D/assets/53339016/36b5e003-704a-494a-87d5-2a5c3caccef9
 
