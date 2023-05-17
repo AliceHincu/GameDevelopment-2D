@@ -1,7 +1,6 @@
 # GameDevelopment-2D
 
-
-https://github.com/AliceHincu/GameDevelopment-2D/assets/53339016/db40ec01-97cf-4fe0-827e-1b5dec4992a7
+https://github.com/AliceHincu/GameDevelopment-2D/assets/53339016/36b5e003-704a-494a-87d5-2a5c3caccef9
 
 Compete with your friend and have the biggest score! Functionalities:
 - passing through the gates modifies you score
